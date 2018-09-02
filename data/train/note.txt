@@ -1,1 +1,2 @@
-Training datas
+Training data
+The files are too big and they will be uploaded soon
